@@ -1,0 +1,20 @@
+package selenium_practice;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.Select;
+
+public class SRTTest {
+
+	public static void main(String[] args) {
+		WebDriver driver = new ChromeDriver();
+		
+		driver.get("https://etk.srail.kr/main.do");
+
+		Select departure = new Select(driver.findElement(By.id("dptRsStnCd")));
+		departure.selectByValue("광주송정");
+		
+	}
+
+}
