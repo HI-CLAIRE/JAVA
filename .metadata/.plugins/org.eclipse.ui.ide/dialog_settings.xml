@@ -17,7 +17,17 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/gimgyuyeon/Desktop/비전공자바_라이브공유_8기_김규연"/>
+			<item value="/Users/gimgyuyeon/Desktop/eclipse-worksapce"/>
 			<item value="/Users/gimgyuyeon/Desktop/eclipse-worksapce/알고리즘문제풀이"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="178"/>
+		<item key="DIALOG_Y_ORIGIN" value="337"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
 </section>
