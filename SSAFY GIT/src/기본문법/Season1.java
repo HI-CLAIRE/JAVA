@@ -23,6 +23,7 @@ public class Season1 {
 			else if (n == 1 || n == 2 || n == 12) {
 				System.out.printf("%d월은 겨울입니다.\n", n);
 			}
+		sc.close();
 		}
 	}
 

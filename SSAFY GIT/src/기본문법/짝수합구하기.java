@@ -18,6 +18,7 @@ public class 짝수합구하기 {
 		}
 		
 		System.out.printf("1부터 %d까지 수 중 짝수의 합 = %d", n, ans);
+		sc.close();
 	}
 
 }
