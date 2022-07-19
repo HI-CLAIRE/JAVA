@@ -1,6 +1,7 @@
 package 문제풀이;
 
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Teacher_농작물수확하기 {
 
@@ -17,7 +18,7 @@ public class Teacher_농작물수확하기 {
 				for(int j=0; j<N; j++) {
 					arr[i][j] = charArr[j] - '0';
 				}
-//				System.out.println(Arrays.deepToString(charArr));
+				System.out.println(Arrays.deepToString(arr));
 			}
 			int sum = 0;
 			for(int r=0; r<N; r++) {
