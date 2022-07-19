@@ -1,6 +1,5 @@
 package 문제풀이;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Teacher_농작물수확하기 {
